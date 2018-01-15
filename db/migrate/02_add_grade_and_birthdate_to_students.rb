@@ -1,1 +1,3 @@
-class Student < ActiveRecord::Migration
+class AddGradeAndBirthdateToStudents < ActiveRecord::Migration
+  
+end
